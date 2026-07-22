@@ -67,6 +67,8 @@ header {
     line-height: 1.6;
     font-size: 28px;
     color: #f8fafc;
+    display: flex;
+    justify-content: center;
 }
 
 .ingroup {
