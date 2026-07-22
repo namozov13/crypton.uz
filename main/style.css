@@ -12,7 +12,7 @@ a {
 }
 
 .navbar {
-    z-index: 1000;
+    z-index: 100;
     background: #1e293bb3;
     backdrop-filter: blur(12px);
     border-bottom: 1px solid #ffffff0d;
