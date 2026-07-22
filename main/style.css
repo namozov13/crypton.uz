@@ -71,6 +71,7 @@ body {
     border-radius: 2px;
     cursor: pointer;
     transition: .3s ease-in-out;
+    z-index: 1000;
 }
 
 .elInfo {
